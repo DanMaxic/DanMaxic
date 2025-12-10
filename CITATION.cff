@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: 
+message: >-
+  If you use this work and you want to cite it,
+  then you can use the metadata from this file.
+type: software
+authors:
+  - given-names: Dan
+    family-names: Maxic
+    email: Dan@DanMaxic.com
+    affiliation: DanMaxic.com
+    orcid: 'https://orcid.org/0009-0007-9214-2290'
+identifiers:
+  - type: url
+    value: 'https://github.com/DanMaxic/DanMaxic/'
+    description: 
+repository-code: 'https://github.com/DanMaxic/DanMaxic/'
+abstract: >-
+  
+license: See license file
